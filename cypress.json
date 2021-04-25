@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://redacted",
+  "env": {
+    "appContainerSelector": "[class^=\"app_container\"]",
+    "titleSelector": "[class^=\"top-bar_title\"]",
+    "searchSelector": "[class^=\"top-bar_search\"]",
+    "breedButtonFilter": ":not([class^=\"breed-menu_placeholder\"])",
+    "activeButtonClassSubString": "breed-menu_activeReady",
+    "pendingButtonClassSubString": "breed-menu_activePending",
+    "breedMessageDivSelector": "[class^=\"breed-menu_message\"]"
+  }
+}
