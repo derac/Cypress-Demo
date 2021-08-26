@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://redacted",
+  "baseUrl": "https://build-cy717a5fk.now.sh/",
   "env": {
     "appContainerSelector": "[class^=\"app_container\"]",
     "titleSelector": "[class^=\"top-bar_title\"]",
